@@ -6,6 +6,7 @@ I've been working professionally since 2021. My professional work lives in priva
 Instead, what you'll find here are mostly older student projects, experiments, and hobby ideas — the things I’ve used to explore, learn, and have fun with programming.
 
 My personal website is hosted on Github pages and I occasionally update it.
+
 ---
 
 Thanks for stopping by.
